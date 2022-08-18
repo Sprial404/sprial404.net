@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌀&nbsp;&nbsp;[sprial404.net](https://sprial404.net/)
 
-## Getting Started
+My humble dwelling amongst the Cyberspace, created and deployed using
+[Next.js](https://nextjs.org/), and [Vercel](https://vercel.com/).
 
-First, run the development server:
+## 🥋 Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Use your favourite package manager and run `yarn install` or `npm install` to
+install all the dependencies, and I do mean all of them, there are a lot.
+Afterwards, run `yarn dev` or `npm run dev` to launch a local development
+server, and navigate to [http://localhost:3000/](http://localhost:3000/). The
+page will hot-reload when any change is detected in the source files.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Production steps are handled [automagically by Vercel](https://vercel.com/docs/concepts/next.js/overview#supported-next.js-features),
+but running `yarn build` or `npm run build` locally will still produce an
+unoptimised, less-than-ideal static version.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🏘 Contribution
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Contributions are welcome, along with improvements, suggestions, and/or
+corrections.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 📜 Notice
 
-## Learn More
+**This is a human-readable summary of (and not a substitute for) the
+license(s).**
 
-To learn more about Next.js, take a look at the following resources:
+Site content is licensed under the [CC-BY-SA-4.0 license](LICENSE.txt), which
+means you can freely share, copy, redistribute, remix, transform, and build upon
+the material for any purpose, even commercially, so long as you attribute and
+share alike.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+All the source code within this repository is licensed under the [MIT
+license](LICENSE-CODE.txt).
